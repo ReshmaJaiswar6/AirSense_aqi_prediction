@@ -1,0 +1,2 @@
+# AirSense-Mumbai-Spatiotemporal-AQI-Prediction-using-Deep-Learning-Python-CNN-Regression-head
+ Developed a satellite-based air quality prediction system using INSAT-3DR Aerosol Optical Depth (AOD) data and a CNN with regression head to estimate surface-level PM₂.₅ and PM₁₀. The project involved multi-source data preprocessing, spatial image analysis, and predicts PM₂.₅ and PM₁₀ for urban air quality monitoring.
