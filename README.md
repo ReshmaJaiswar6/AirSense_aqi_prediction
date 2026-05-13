@@ -3,6 +3,14 @@
  
 GitHub hosted website: https://reshmajaiswar6.github.io/AirSense_aqi_prediction/
 
+### Project Objectives
+Predict AQI, PM2.5, and PM10 accurately
+Use satellite imagery for pollution estimation
+Build a hybrid CNN-LSTM deep learning model
+Create a user-friendly web platform for visualization
+Provide health alerts and pollution awareness
+Study indoor air purification using phytoremediation
+
 Raw H5 AOD extreacted using Python and h5.py 
 
 <img width="543" height="487" alt="image" src="https://github.com/user-attachments/assets/868cb9f4-0806-47e4-8930-bb3b3bda8fb6" />
@@ -10,3 +18,27 @@ Raw H5 AOD extreacted using Python and h5.py
 Geospatially subsetted Mumbai & Preprossed & summerized AOD map
 
 <img width="2091" height="2100" alt="3RIMG_09FEB2023_0845_L2G_AOD_V02R00" src="https://github.com/user-attachments/assets/894c5033-299a-4ebb-aa8e-a17ed4a90604" />
+
+
+Interface of WinSCP client used for automated bulk acquisition of INSAT-3DR
+data
+<img width="1171" height="571" alt="image" src="https://github.com/user-attachments/assets/8a77448d-d864-4980-8432-e8bf0b77b833" />
+
+Automating bulk data acquisition from MOSDAC via the WinSCP client.
+<img width="1180" height="626" alt="image" src="https://github.com/user-attachments/assets/27c86b61-a830-44a0-8174-b8204546a2af" />
+
+
+ ### Data Sources
+1. INSAT-3DR Satellite Data
+Aerosol Optical Depth (AOD)
+HDF5 (.h5) files
+Downloaded from MOSDAC/ISRO
+2. MPCB Ground Truth Data
+AQI
+PM2.5
+PM10
+BKC Monitoring Station
+3. IMD Weather Data
+Temperature
+Rainfall
+Wind Speed
