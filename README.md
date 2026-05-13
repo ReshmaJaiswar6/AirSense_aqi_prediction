@@ -3,5 +3,10 @@
  
 GitHub hosted website: https://reshmajaiswar6.github.io/AirSense_aqi_prediction/
 
+Raw H5 AOD extreacted using Python and h5.py 
+
+<img width="543" height="487" alt="image" src="https://github.com/user-attachments/assets/868cb9f4-0806-47e4-8930-bb3b3bda8fb6" />
+
+Geospatially subsetted Mumbai & Preprossed & summerized AOD map
 
 <img width="2091" height="2100" alt="3RIMG_09FEB2023_0845_L2G_AOD_V02R00" src="https://github.com/user-attachments/assets/894c5033-299a-4ebb-aa8e-a17ed4a90604" />
